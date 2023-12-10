@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Box.Models/1.0.0": {
+        "dependencies": {
+          "Box.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Box.Models.dll": {}
+        }
+      },
+      "Box.Utilities/1.0.0": {
+        "runtime": {
+          "Box.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Box.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Box.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\bin\Debug\net7.0\Box.Utilities.deps.json
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\bin\Debug\net7.0\Box.Utilities.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\bin\Debug\net7.0\Box.Utilities.pdb
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.AssemblyInfoInputs.cache
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.AssemblyInfo.cs
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\refint\Box.Utilities.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\Box.Utilities.pdb
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Utilities\obj\Debug\net7.0\ref\Box.Utilities.dll

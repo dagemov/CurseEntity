@@ -1,0 +1,15 @@
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\bin\Debug\net7.0\Box.Models.deps.json
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\bin\Debug\net7.0\Box.Models.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\bin\Debug\net7.0\Box.Models.pdb
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.AssemblyInfoInputs.cache
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.AssemblyInfo.cs
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\refint\Box.Models.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.pdb
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\ref\Box.Models.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\bin\Debug\net7.0\Box.Utilities.dll
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\bin\Debug\net7.0\Box.Utilities.pdb
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.csproj.AssemblyReference.cache
+C:\Users\sebastian\source\repos\CurseEntity\DagemovServices\Box.Models\obj\Debug\net7.0\Box.Models.csproj.CopyComplete
